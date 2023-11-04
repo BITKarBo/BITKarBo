@@ -1,14 +1,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Kaapo+Pelkonen;Computer+Engineering+Student;Cooking+Projects;%40KarBo_">
 
-
+<div align="center">
 <br/>
-    <a href="https://github.com/BITKarBo/github-readme-stats"><img alt="KarBo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BITKarBo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/BITKarBo/github-readme-stats"><img alt="KarBo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BITKarBo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/BITKarBo/github-readme-stats"><img alt="KarBo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITKarBo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BITKarBo&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=BITKarBo&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BITKarBo&theme=algolia&background=0d1117&hide_border=true" /><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BITKarBo&theme=react&background=0D1117&hide_border=true" />
+</div>
 </div>
 
 ## 🌐 Socials:
@@ -84,7 +85,6 @@
 
 <br> 
 
-  Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
