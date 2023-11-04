@@ -1,8 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Kaapo+Pelkonen;Computer+Engineering+Student;Cooking+Projects;%40KarBo_">
 
 
-## 📊 My Github Stats
-
 <br/>
     <a href="https://github.com/BITKarBo/github-readme-stats"><img alt="KarBo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BITKarBo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/BITKarBo/github-readme-stats"><img alt="KarBo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITKarBo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
